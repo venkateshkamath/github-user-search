@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Info, Repos, User, Search, Navbar } from "../components";
-import loadingImage from "../images/preloader.gif";
+import loadingGif from "../images/preloader.gif";
 import { GithubContext } from "../context/context";
 const Dashboard = () => {
   const { loading } = useContext(GithubContext);
@@ -10,11 +10,7 @@ const Dashboard = () => {
       <main>
         <Navbar />
         <Search />
-        <img
-          className="loading-img"
-          alt="loading the page"
-          src={loadingImage}
-        />
+        <img className="loading-img" alt="loading the page" src={loadingGif} />
       </main>
     );
   } else
