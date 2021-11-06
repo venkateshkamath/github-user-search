@@ -1,0 +1,38 @@
+export default {
+  login: "venkateshkamath",
+  id: 48375542,
+  node_id: "MDQ6VXNlcjQ4Mzc1NTQy",
+  avatar_url: "https://avatars.githubusercontent.com/u/48375542?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/venkateshkamath",
+  html_url: "https://github.com/venkateshkamath",
+  followers_url: "https://api.github.com/users/venkateshkamath/followers",
+  following_url:
+    "https://api.github.com/users/venkateshkamath/following{/other_user}",
+  gists_url: "https://api.github.com/users/venkateshkamath/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/venkateshkamath/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/venkateshkamath/subscriptions",
+  organizations_url: "https://api.github.com/users/venkateshkamath/orgs",
+  repos_url: "https://api.github.com/users/venkateshkamath/repos",
+  events_url: "https://api.github.com/users/venkateshkamath/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/venkateshkamath/received_events",
+  type: "User",
+  site_admin: false,
+  name: "Venkatesh Kamath",
+  company: "ZTM, Coding Heroes",
+  blog: "venkateshkamath.netlify.app",
+  location: "Mangalore,India",
+  email: 'venkykamat2000@gmail.com',
+  hireable: true,
+  bio: null,
+  twitter_username: "nvkamath",
+  public_repos: 57,
+  public_gists: 56,
+  followers: 1288,
+  following: 160,
+  created_at: "2019-03-09T05:53:35Z",
+  updated_at: "2021-10-17T15:28:43Z",
+};
